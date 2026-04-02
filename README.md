@@ -134,7 +134,3 @@ User Input (Title + Question)
 - The generated PDF is saved as `movie_report.pdf` in the working directory before being served for download.
 
 ---
-
-## License
-
-MIT License. Feel free to use, modify, and distribute.
