@@ -1,4 +1,4 @@
-# 🎬 Multi-Agent Movie Intelligence System
+# 🎬  Movie Intelligence System
 
 A Streamlit-based web application that fetches real-time movie data, analyzes it using a local LLM agent (via Ollama), and generates a downloadable PDF report.
 
